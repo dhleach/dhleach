@@ -1,13 +1,14 @@
 ## Hi, I'm Derek 👋
 
-Software Engineer with 5+ years in DevOps and automation at Hitachi Rail, and 10 years as a Staff Engineer at Shell Oil.
+Software engineer specializing in production Python systems, infrastructure automation, and AI agent runtimes.
 
-**What I'm building now:**
-- 🏠 [HomeOps](https://github.com/dhleach/homeops) — event-driven HVAC monitoring on Raspberry Pi. WebSocket ingestion, 13+ typed event schemas, 4 fault-detection rules, 189 pytest tests.
-- 🤖 AI agent infrastructure — multi-agent orchestration with Claude Code, GitHub/Notion/Gmail integration, autonomous PR pipelines.
+**What I'm building:**
 
-**Tech I reach for:** Python · CI/CD · systemd · Docker · GitHub Actions · pytest · Tailscale · REST APIs
+- 🏠 [HomeOps](https://github.com/dhleach/homeops) — full-stack HVAC observability platform. Event-driven Python pipeline on Raspberry Pi 5, 25 typed event schemas, 698 pytest tests, Prometheus + Grafana on AWS EC2, React dashboard live at [homeops.now](https://homeops.now). All infrastructure as Terraform.
+- 🤖 OpenClaw AI runtime — production multi-agent orchestration: main orchestrator + isolated sub-agents, 20+ tools with circuit breakers and retry strategies, JSONL execution tracing, nightly memory extraction, autonomous cron pipelines. Runs 24/7 on Raspberry Pi.
 
-**Previously:** Drilled the 2 deepest wells in Turkey's history at Shell. Set the PA state record for most footage drilled in 24 hours. Saved $15M/year through process redesign.
+**Tech I reach for:** Python · GitHub Actions · Terraform · AWS · Docker · Prometheus · Grafana · FastAPI · Anthropic Claude and OpenAI APIs · systemd · Tailscale
+
+**Previously:** 6 years DevOps/Release Management at Hitachi Rail (automated a 40-hour weekly process to 10 minutes, managed 200+ releases/year). 10 years Staff Well Engineer at Shell Oil — drilled Turkey's 2 deepest wells, set the PA drilling record, saved $15M/year through process redesign.
 
 📍 Pittsburgh, PA · 🔗 [linkedin.com/in/derekleach](https://linkedin.com/in/derekleach)
