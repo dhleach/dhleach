@@ -9,6 +9,6 @@ Software engineer specializing in production Python systems, infrastructure auto
 
 **Tech I reach for:** Python · GitHub Actions · Terraform · AWS · Docker · Prometheus · Grafana · FastAPI · Anthropic Claude and OpenAI APIs · systemd · Tailscale
 
-**Previously:** 6 years DevOps/Release Management at Hitachi Rail (automated a 40-hour weekly process to 10 minutes, managed 200+ releases/year). 10 years Staff Well Engineer at Shell Oil — drilled Turkey's 2 deepest wells, set the PA drilling record, saved $15M/year through process redesign.
+**Employment:** 6 years DevOps/Release Management at Hitachi Rail (automated a 40-hour weekly process to 10 minutes, managed 200+ releases/year). 10 years Staff Well Engineer at Shell Oil — drilled Turkey's 2 deepest wells, set the PA drilling record, saved $15M/year through process redesign.
 
 📍 Pittsburgh, PA · 🔗 [linkedin.com/in/derekleach](https://linkedin.com/in/derekleach)
